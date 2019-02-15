@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>棒棰岛上的天一阁</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://localhost:4000/cornergrat/</link>
+    <atom:link href="http://localhost:4000/cornergrat/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Feb 2019 23:04:37 +0800</pubDate>
+    <lastBuildDate>Fri, 15 Feb 2019 23:04:37 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Happy Valentine's Day</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://music.163.com/#/song?id=64317&quot;&gt;因为爱情&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Feb 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/cornergrat/life/2019/02/14/valentine_day.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cornergrat/life/2019/02/14/valentine_day.html</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+  </channel>
+</rss>

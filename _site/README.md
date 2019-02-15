@@ -1,4 +1,4 @@
-This blog is powered by Jekyll using Simple theme authored by wild-flame.
+[![](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/wild-flame)
 
 # jekyll-simple
 
@@ -8,7 +8,6 @@ simple is a theme designed for blogger using static site generator like jekyll, 
 Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
 
 Supposedly, this could work with Japanese as well but never had a chance to try.
-
 
 ## Story behind this theme
 
